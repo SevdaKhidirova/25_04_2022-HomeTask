@@ -1,0 +1,12 @@
+table,th,td{
+    border: 1px solid black;
+}
+div{
+    width: 700px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+table{
+    width: 600px;
+}

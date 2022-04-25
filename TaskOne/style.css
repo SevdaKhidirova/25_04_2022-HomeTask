@@ -1,0 +1,41 @@
+body{
+    background-color: #FAF3E3;
+}
+.image{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+img{
+    width: 290px;
+}
+.text{
+    text-align: center;
+    padding: 100px;
+    font-family: cursive;
+    height: 1px;
+}
+.line,.textLine{
+   padding-left: 200px;
+   padding-right: 200px;
+}
+.textLine{
+    font-size: 20px;
+}
+.red{
+    color: red;
+}
+.textLine{
+    font-family: 'My Soul', cursive;
+    font-size: 25px;
+}
+.container{
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+.line{
+    padding-top: 10px;
+}

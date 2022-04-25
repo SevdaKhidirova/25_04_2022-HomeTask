@@ -1,0 +1,64 @@
+.firstline{
+    width: 90%;
+    height:1020px;
+    box-shadow:5px 7px 10px 8px;
+    color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label{
+    width: 100px;
+    display: inline-block;
+    font-family: 'Tapestry', cursive;
+}
+.secondline{
+    width: 90%;
+    height: 1000px;
+}
+form,h1,h2{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.one,.preferences,.information{
+    width: 90%;
+    height: 200px;
+    border: black 1px solid;
+    margin-left: 20px;
+}
+h2{
+    color: aquamarine;
+}
+.preferences{
+    margin-top: 30px;
+    font-size: 15px;
+}
+.line{
+    width: 90%;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.buttons{
+    width: 90%;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+    font-family: cursive;
+    cursor: pointer;
+}
+body{
+    background-image: linear-gradient(to right top, #eff4f4, #dfedec, #d1e7e1, #c4e0d4, #bad8c5, #a4ccb9, #8ebfae, #76b3a4, #499ea2, #1e87a1, #106f9b, #30548c);
+}
